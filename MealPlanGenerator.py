@@ -188,4 +188,5 @@ if __name__ == "__main__":
     with open("cardapio_final.md", "w", encoding="utf-8") as f:
         f.write(markdown)
 
-    print("✅ Cardápio gerado em cardapio_final.md")
+    print("Cardápio gerado em cardapio_final.md")
+
